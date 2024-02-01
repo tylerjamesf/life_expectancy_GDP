@@ -2,15 +2,15 @@
 
 ## I. Introduction
    ### A. Background
-      1. Briefly explain the importance of studying the relationship between GDP and life expectancy.
+      1. Studying the relationship between GDP and Life Expectancy provides valuable informed decisions that could help to 
+         shape policices and help populations in these areas.
       2. Countries data include: Chile, China, Germany, Mexico, United States, and Zimbabwe
 
    ### B. Goals
 
 ## II. Data Gathering
    ### A. Data Sources
-
-   ### B. Data Collection
+      1. Data provided for the project by World Health Organization and the World Bank.
 
 
 ## III. Analytical Steps
